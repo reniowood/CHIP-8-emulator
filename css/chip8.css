@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+}
+#emulator
+{
+    width: 1024px;
+}
+#screen
+{
+    float: left;
+}
+input 
+{
+    width: 50px;
+}
+#emulator_controller
+{
+    clear: both;
+    text-align: center;
+}
